@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/controller:v1.9.5
+FROM dyrnq/ingress-nginx-controller:v1.9.4
